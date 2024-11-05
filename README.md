@@ -6,4 +6,6 @@
 
 
 
+![Descrição do GIF](https://caminho-para-seu-gif.gif | width=300)
 
+![ball_lightning](https://github.com/user-attachments/assets/e2997406-d2cf-45c9-8fb2-5f6a59928db9 | width=300)
