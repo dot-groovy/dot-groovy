@@ -9,6 +9,7 @@
 
 
 <p align="center">
-  <img src="![ball_lightning]" width="300" height="auto">
+  <img src=![ball_lightning](https://github.com/user-attachments/assets/89983366-2c50-48d4-ad6a-0ef764587cfc)
+ width="300" height="auto">
 </p>
 
