@@ -8,7 +8,7 @@
 
 
 
-<p align="center">
+
   <img src="![ball_lightning](https://github.com/user-attachments/assets/89983366-2c50-48d4-ad6a-0ef764587cfc).gif" width="300" height="auto">
-</p>
+
 
