@@ -4,8 +4,4 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-![Descrição do GIF](https://caminho-para-seu-gif.gif | width=300)
-
-![ball_lightning] | width=300)
+![ball_lightning](https://github.com/user-attachments/assets/3a24e05b-b6cf-4188-986d-7899cf553ee9)
