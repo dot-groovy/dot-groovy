@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Expo-323330?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-"
+
 </p>
 
 
